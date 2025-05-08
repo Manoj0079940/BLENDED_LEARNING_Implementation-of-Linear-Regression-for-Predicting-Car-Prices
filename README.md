@@ -12,11 +12,7 @@ To write a program to predict car prices using a linear regression model and tes
 2.Load Dataset: Load the dataset containing car prices and relevant features.
 3.Data Preprocessing: Handle missing values and perform feature selection if necessary.
 4.Split Data: Split the dataset into training and testing sets.
-5.Train Model: Create a linear regression model and fit it to the training data.
-6.Make Predictions: Use the model to make predictions on the test set.
-7.Evaluate Model: Assess model performance using metrics like R² score, Mean Absolute Error (MAE), etc.
-8.Check Assumptions: Plot residuals to check for homoscedasticity, normality, and linearity.
-9.Output Results: Display the predictions and evaluation metrics.
+5.Output Results: Display the predictions and evaluation metrics.
 
 ## Program:
 ```
