@@ -9,9 +9,13 @@ To write a program to predict car prices using a linear regression model and tes
 
 ## Algorithm
 1.Import Libraries: Import necessary libraries such as pandas, numpy, matplotlib, and sklearn.
+
 2.Load Dataset: Load the dataset containing car prices and relevant features.
+
 3.Data Preprocessing: Handle missing values and perform feature selection if necessary.
+
 4.Split Data: Split the dataset into training and testing sets.
+
 5.Output Results: Display the predictions and evaluation metrics.
 
 ## Program:
