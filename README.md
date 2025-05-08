@@ -20,6 +20,9 @@ To write a program to predict car prices using a linear regression model and tes
 
 ## Program:
 ```
+DEVELOPED BY: MANOJ M
+REG :212223230122
+
 import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
